@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactActivity/static/css/main.02c87136.css",
-    "main.js": "/ReactActivity/static/js/main.3814209e.js",
+    "main.js": "/ReactActivity/static/js/main.7bc01a5e.js",
     "static/js/787.aefd5810.chunk.js": "/ReactActivity/static/js/787.aefd5810.chunk.js",
     "index.html": "/ReactActivity/index.html",
     "main.02c87136.css.map": "/ReactActivity/static/css/main.02c87136.css.map",
-    "main.3814209e.js.map": "/ReactActivity/static/js/main.3814209e.js.map",
+    "main.7bc01a5e.js.map": "/ReactActivity/static/js/main.7bc01a5e.js.map",
     "787.aefd5810.chunk.js.map": "/ReactActivity/static/js/787.aefd5810.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02c87136.css",
-    "static/js/main.3814209e.js"
+    "static/js/main.7bc01a5e.js"
   ]
 }
