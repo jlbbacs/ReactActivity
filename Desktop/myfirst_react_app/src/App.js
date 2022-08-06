@@ -38,20 +38,20 @@ export default function App() {
                 paddingBottom: "1rem",
                 }}
             >
-                <Link to="/execise1">Exercise1</Link> |{" "}
-                <Link to="/execise2">Exercise2</Link> |{" "}
-                <Link to="/execise3">Exercise3</Link> |{" "}
-                <Link to="/execise4">Exercise4</Link> |{" "}
-                <Link to="/execise5">Exercise5</Link> |{" "}
-                <Link to="/execise6">Exercise6</Link> |{" "}
+                <Link to="execise1">Exercise1</Link> |{" "}
+                <Link to="execise2">Exercise2</Link> |{" "}
+                <Link to="execise3">Exercise3</Link> |{" "}
+                <Link to="execise4">Exercise4</Link> |{" "}
+                <Link to="execise5">Exercise5</Link> |{" "}
+                <Link to="execise6">Exercise6</Link> |{" "}
             </nav>
             <Routes>
-                 <Route exact path='/exercise1' element={<Exercise1 />}></Route>
-                 <Route exact path='/exercise2' element={<Exercise2 />}></Route>
-                 <Route exact path='/exercise3' element={<Exercise3 />}></Route>
-                 <Route exact path='/exercise4' element={<Exercise4 />}></Route>
-                 <Route exact path='/exercise5' element={<Exercise5 />}></Route>
-                 <Route exact path='/exercise6' element={<Exercise6 />}></Route>
+                 <Route exact path='exercise1' element={<Exercise1 />}></Route>
+                 <Route exact path='exercise2' element={<Exercise2 />}></Route>
+                 <Route exact path='exercise3' element={<Exercise3 />}></Route>
+                 <Route exact path='exercise4' element={<Exercise4 />}></Route>
+                 <Route exact path='exercise5' element={<Exercise5 />}></Route>
+                 <Route exact path='exercise6' element={<Exercise6 />}></Route>
             </Routes>
         </Router>
       <button onClick={showAlert}>click me</button>
